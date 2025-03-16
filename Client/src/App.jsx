@@ -6,7 +6,7 @@ import Canvas from "./canvas";
 function App() {
 
   return (
-   <main className="app">
+   <main className="app bg-amber-100">
     <Home />
     <Canvas />
     <Customizer />
